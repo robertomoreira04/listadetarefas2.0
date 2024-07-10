@@ -17,3 +17,17 @@
     line-height: 1;
   }
 }
+
+@media (max-width: 440px) {
+  .stats_card {
+    padding: 0.5rem;
+  }
+
+  .stats_card h2 {
+    font-size: 0.8rem;
+  }
+
+  .stats_card span {
+    font-size: 2rem;
+  }
+}
