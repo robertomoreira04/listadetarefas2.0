@@ -1,14 +1,14 @@
 {
   "short_name": "Lista de Tarefas",
-  "name": "Lista de Tarefas RM",
+  "name": "Lista de Tarefas ʳᵐ",
   "icons": [
     {
-      "src": "./favicon512.png",
+      "src": "./rocketlt.png",
       "sizes": "512x512",
       "type": "image/x-icon"
     },
     {
-      "src": "./favicon512.png",
+      "src": "./rocketlt.png",
       "type": "image/png",
       "sizes": "512x512"
     }
