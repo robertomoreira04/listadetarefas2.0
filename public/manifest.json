@@ -3,14 +3,14 @@
   "name": "Lista de Tarefas RM",
   "icons": [
     {
-      "src": "./favicon.png",
-      "sizes": "16x16",
+      "src": "./favicon512.png",
+      "sizes": "512x512",
       "type": "image/x-icon"
     },
     {
-      "src": "./favicon.png",
+      "src": "./favicon512.png",
       "type": "image/png",
-      "sizes": "16x16"
+      "sizes": "512x512"
     }
   ],
   "start_url": ".",
