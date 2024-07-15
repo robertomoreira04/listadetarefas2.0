@@ -3,12 +3,12 @@
   "name": "Lista de Tarefas ʳᵐ",
   "icons": [
     {
-      "src": "./rocketlt.png",
+      "src": "./favicon.png",
       "sizes": "512x512",
       "type": "image/x-icon"
     },
     {
-      "src": "./rocketlt.png",
+      "src": "./icone.png",
       "type": "image/png",
       "sizes": "512x512"
     }
